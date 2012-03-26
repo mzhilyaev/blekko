@@ -19,7 +19,7 @@
         	"name": "blekko_suggest_url",
         	"title": "blekko suggest url",
         	"type": "string",
-        	"value": "http://blekko.com/ff-nav-suggest?key=e54a1b16&q="
+        	"value": "http://blekko.com/ff-nav-suggest?q="
     	},
 		{
         	"name": "blekko_search_url",
